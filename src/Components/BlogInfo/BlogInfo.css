@@ -1,0 +1,79 @@
+.cover-img{
+    width: 845px;
+    height: 450px;
+    border-radius: 8px;
+}
+.cover-image{
+    width: 100%;
+}
+.author-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.author-des{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+.bookmark-icon{
+    margin-left: 8px;
+    color: rgba(17, 17, 17, 0.6);
+    font-size: 20px;
+}
+.readTime{
+    color: rgba(17, 17, 17, 0.6);
+    font-size: 20px;
+}
+.description{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.blog-des{
+    margin-top: 35px;
+    width: 845px;
+    height: 845px;
+}
+.authorName{
+    font-weight: 700;
+    font-size: 20px;
+}
+.blog-title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: justify;
+}
+.hash{
+    color: rgba(17, 17, 17, 0.6);
+    font-size: 20px;
+}
+.mark{
+    color: blue;
+    text-decoration: underline;
+}
+
+@media screen and (max-width:576px){
+    .cover-image {
+        width: 100%;
+    }
+    .cover-img {
+        width: 100%;
+        height: 300px;
+        border-radius: 8px;
+    }
+    .blog-des {
+        margin-top: 15px;
+        width: 100%;
+        height: 600px;
+    }
+    .blog-title {
+        font-weight: 700;
+        font-size: 20px;
+        text-align: justify;
+    }
+    .bookmark-icon {
+        margin-left: 2px;
+        color: rgba(17, 17, 17, 0.6);
+    }
+}

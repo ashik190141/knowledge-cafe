@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "authorname": "Mr. Raju",
+        "readtime": 5,
+        "blogtitle": "How to get your first job as a self-taught programmer",
+        "authorimg": "https://images.pexels.com/photos/1073083/pexels-photo-1073083.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "publishdate": "Mar 14(4 Days ago)",
+        "img": "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id": "2",
+        "authorname": "Mrs. Setara",
+        "readtime": 6,
+        "blogtitle": "How to get success of our profession",
+        "authorimg": "https://images.pexels.com/photos/1416736/pexels-photo-1416736.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "publishdate": "Mar 24(5 Days ago)",
+        "img": "https://images.pexels.com/photos/3810756/pexels-photo-3810756.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id": "3",
+        "authorname": "Mr. Ashik",
+        "readtime": 7,
+        "blogtitle": "How to get a job in student life",
+        "authorimg": "https://images.pexels.com/photos/1374509/pexels-photo-1374509.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "publishdate": "Feb 14(6 Days ago)",
+        "img": "https://images.pexels.com/photos/4560080/pexels-photo-4560080.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id": "4",
+        "authorname": "Mrs. Shohana",
+        "readtime": 9,
+        "blogtitle": "How to become a rich man",
+        "authorimg": "https://images.pexels.com/photos/1427288/pexels-photo-1427288.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "publishdate": "Apr 14(4 Days ago)",
+        "img": "https://images.pexels.com/photos/14995879/pexels-photo-14995879.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+]

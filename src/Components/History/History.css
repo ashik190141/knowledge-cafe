@@ -1,0 +1,31 @@
+.minute{
+    color: #6047EC;
+    font-weight: 700;
+    font-size: 24px;
+    background: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    text-align: center;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+.history{
+    position: sticky;
+    top: 0;
+}
+.history-description{
+    padding: 30px;
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+}
+.totalSelect{
+    font-weight: 700;
+    font-size: 24px;
+    color: #111111;
+}
+.selectedtitle{
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 20px;
+}

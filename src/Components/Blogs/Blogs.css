@@ -1,0 +1,29 @@
+.blog-details{
+    margin-left: 150px;
+}
+.blog-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.blog-summary{
+    margin-right: 150px;
+}
+.que-ans{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+@media screen and (max-width:576px){
+    .blog-details {
+        margin-left: 10px;
+    }
+    .blog-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .blog-summary {
+        margin-right: 10px;
+    }
+    .que-ans {
+        margin-left: 10px;
+    }
+}
